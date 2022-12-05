@@ -7,5 +7,5 @@ setup(
     author="Tinggao Cui",
     author_email="tginfo.cui@fau.de",
     packages=find_packages(),
-    install_requires=["numpy","turtle"],
+    install_requires=["numpy","turtles"],
 )
