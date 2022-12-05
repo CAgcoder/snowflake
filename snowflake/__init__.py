@@ -1,1 +1,1 @@
-from .let_it_snow import *
+from snowflake.let_it_snow import *
